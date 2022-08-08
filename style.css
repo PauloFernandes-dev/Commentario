@@ -1,0 +1,299 @@
+     /*Corpo da pagina */
+     
+     body {
+         font-family: 'Poppins', sans-serif;
+         background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+         background-attachment: fixed;
+     }
+     /*Post em branco */
+     
+     #divbox {
+         background: white;
+         border-style: none;
+         width: 45em;
+         height: 30em;
+         position: absolute;
+         left: 19em;
+         bottom: 3em;
+         border-radius: 10px;
+     }
+     /*Começa primeiro comment */
+     
+     #linha-vertical {
+         margin-left: 3.4em;
+         margin-top: 5em;
+         height: 250px;
+         border-right: 1px solid lightgrey;
+         position: absolute;
+     }
+     
+     #img1 {
+         width: 3em;
+         height: 3em;
+         margin-left: 2em;
+         margin-top: 0.5em;
+         position: absolute;
+     }
+     
+     #nome1 {
+         margin-left: 6em;
+         margin-top: 1.3em;
+         position: absolute;
+     }
+     
+     #nome2 {
+         color: grey;
+         margin-left: 15.5em;
+         margin-bottom: 0.5em;
+         position: absolute;
+     }
+     
+     #nome3 {
+         margin-left: 6em;
+         margin-top: 3em;
+         position: absolute;
+         color: #363636;
+     }
+     
+     #Report1 {
+         margin-left: 18em;
+         margin-top: 8.4em;
+         position: absolute;
+     }
+     
+     #Reply1 {
+         margin-left: 13em;
+         margin-top: 8.4em;
+         position: absolute;
+     }
+     
+     #setacima1 {
+         margin-left: 6em;
+         margin-top: 6.7em;
+         width: 1.3em;
+         position: absolute;
+     }
+     
+     #n2 {
+         margin-left: 7.6em;
+         margin-top: 6.9em;
+         position: absolute;
+     }
+     
+     #setabaixo1 {
+         margin-left: 8.5em;
+         margin-top: 6.7em;
+         width: 1.3em;
+         position: absolute;
+     }
+     /*Termina primeiro comment */
+     /*Começa segundo comment */
+     
+     #linha-vertical2 {
+         margin-left: 7.5em;
+         margin-top: 12em;
+         height: 138px;
+         border-right: 1px solid lightgrey;
+         position: absolute;
+     }
+     
+     #img2 {
+         width: 3em;
+         height: 3em;
+         margin-left: 6.1em;
+         margin-top: 8.3em;
+         position: absolute;
+     }
+     
+     #nome4 {
+         margin-left: 10em;
+         margin-top: 9em;
+         position: absolute;
+     }
+     
+     #nome5 {
+         color: grey;
+         margin-left: 22em;
+         margin-top: 11em;
+         position: absolute;
+     }
+     
+     #nome6 {
+         margin-left: 10em;
+         margin-top: 10.8em;
+         position: absolute;
+         color: #363636;
+     }
+     
+     #Report2 {
+         margin-left: 23em;
+         margin-top: 15em;
+         position: absolute;
+     }
+     
+     #Reply2 {
+         margin-left: 18em;
+         margin-top: 15em;
+         position: absolute;
+     }
+     
+     #setacima2 {
+         margin-left: 10.1em;
+         margin-top: 12.1em;
+         width: 1.3em;
+         position: absolute;
+     }
+     
+     #n5 {
+         margin-left: 11.8em;
+         margin-top: 12.3em;
+         position: absolute;
+     }
+     
+     #setabaixo2 {
+         margin-left: 12.7em;
+         margin-top: 12.1em;
+         width: 1.3em;
+         position: absolute;
+     }
+     /*Termina segundo comment */
+     /*Começa terceiro comment */
+     
+     #linha-vertical3 {
+         margin-left: 11.4em;
+         margin-top: 19em;
+         height: 25px;
+         border-right: 1px solid black;
+         position: absolute;
+     }
+     
+     #img3 {
+         width: 3em;
+         height: 3em;
+         margin-left: 10em;
+         margin-top: 15em;
+         position: absolute;
+     }
+     
+     #nome7 {
+         margin-left: 14em;
+         margin-top: 15.5em;
+         position: absolute;
+     }
+     
+     #nome8 {
+         color: grey;
+         margin-left: 26em;
+         margin-top: 18.8em;
+         position: absolute;
+     }
+     
+     #nome9 {
+         margin-left: 14em;
+         margin-top: 17.3em;
+         position: absolute;
+         color: #363636;
+     }
+     
+     #Reply3 {
+         margin-left: 22em;
+         margin-top: 23em;
+         position: absolute;
+     }
+     
+     #Report3 {
+         margin-left: 27em;
+         margin-top: 23em;
+         position: absolute;
+     }
+     
+     #setacima3 {
+         margin-left: 14em;
+         margin-top: 19em;
+         width: 1.3em;
+         position: absolute;
+     }
+     
+     #n6 {
+         margin-left: 15.5em;
+         margin-top: 19.2em;
+         position: absolute;
+     }
+     
+     #setabaixo3 {
+         margin-left: 16.3em;
+         margin-top: 19em;
+         width: 1.3em;
+         position: absolute;
+     }
+     /*Termina terceiro comment */
+     /*Começa quarto comment */
+     
+     #linha-vertical4 {
+         margin-left: 3.4em;
+         margin-top: 26em;
+         height: 35px;
+         border-right: 1px solid lightgrey;
+         position: absolute;
+     }
+     
+     #img4 {
+         width: 3em;
+         height: 3em;
+         margin-left: 2em;
+         margin-top: 22em;
+         position: absolute;
+     }
+     
+     #nome10 {
+         margin-left: 6em;
+         margin-top: 22.5em;
+         position: absolute;
+     }
+     
+     #nome11 {
+         color: grey;
+         margin-left: 16.3em;
+         margin-top: 27.2em;
+         position: absolute;
+     }
+     
+     #nome12 {
+         margin-left: 6em;
+         margin-top: 24.5em;
+         position: absolute;
+         color: #363636;
+     }
+     
+     #Report4 {
+         margin-left: 18em;
+         margin-top: 32em;
+         position: absolute;
+     }
+     
+     #Reply4 {
+         margin-left: 13em;
+         margin-top: 32em;
+         position: absolute;
+     }
+     
+     #setacima4 {
+         margin-left: 6em;
+         margin-top: 26.5em;
+         width: 1.3em;
+         position: absolute;
+     }
+     
+     #n7 {
+         margin-left: 7.6em;
+         margin-top: 26.7em;
+         position: absolute;
+     }
+     
+     #setabaixo4 {
+         margin-left: 8.5em;
+         margin-top: 26.5em;
+         width: 1.3em;
+         position: absolute;
+     }
+     /*Termina quarto comment */
